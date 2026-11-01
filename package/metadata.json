@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Id": "desktopnameosd",
+        "Name": "Desktop Name OSD",
+        "Description": "Popup con el nombre del escritorio y bolitas de posición al cambiar de escritorio (estilo Cinnamon)",
+        "Authors": [
+            {
+                "Name": "mrdic94"
+            }
+        ],
+        "License": "MIT",
+        "Version": "1.0",
+        "EnabledByDefault": false,
+        "Website": "https://github.com/mrdic94/kwin-desktop-osd"
+    },
+    "X-Plasma-API": "declarativescript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "KPackageStructure": "KWin/Script"
+}
